@@ -1,7 +1,7 @@
 ### Olá! eu sou a Roberta Nogueira 👋
 
 
-- 🔭 Estou trabalhando no meu Portfólio
+- 🔭 Estou trabalhando em pequenos projetos para iniciantes
 - 🌱 Estou aprendendo HTML, CSS e JavaScript
 - 😄 Pronomes: ela/dela
 
