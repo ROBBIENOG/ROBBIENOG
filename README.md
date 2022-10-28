@@ -3,7 +3,7 @@
 
 - 🔭 Estou trabalhando em pequenos projetos para iniciantes
 - 🌱 Estou aprendendo HTML, CSS e JavaScript
-- 😄 Pronomes: ela/dela
+
 
 <div align="center">
   <a href="https://github.com/robbienog">
